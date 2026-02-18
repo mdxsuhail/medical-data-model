@@ -75,4 +75,4 @@ python scripts/process_biomarkers.py
 
 ---
 
-© 2024 SB-MED01 Team. Designed for medical excellence.
+© 2026 SB-MED01 Team. Designed for medical excellence.
